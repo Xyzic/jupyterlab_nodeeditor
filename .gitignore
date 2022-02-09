@@ -111,3 +111,5 @@ dmypy.json
 
 # OSX files
 .DS_Store
+examples/wip_notebooks/ygg_support.ipynb
+examples/wip_notebooks/data_models.ipynb
